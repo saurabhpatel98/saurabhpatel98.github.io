@@ -114,7 +114,7 @@
     </a> 
     
  </p>   
-
+<!-- 
 ## **🕵️ Github Profile Stats** 
 </br>
 
@@ -124,4 +124,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=saurabhpatel98&layout=compact&theme=radical&show_icons=true&locale=en" 
 	alt="saurabhkhunt" width="400"  /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhpatel98&&layout=compact&theme=radical" alt="saurabhkhunt" width="400"  /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhpatel98&&layout=compact&theme=radical" alt="saurabhkhunt" width="400"  /></p> -->
