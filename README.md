@@ -13,7 +13,7 @@
 -->	
 ## **📫 Connect with Me!**
 [![GitHub Badge](https://img.shields.io/badge/-saurabhkhunt-000000?style=flat&labelColor=000000&logo=github&logoColor=white)](https://github.com/saurabhpatel98/)
-[![Linkedin Badge](https://img.shields.io/badge/-saurabhkhunt-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabhjhunt/) 
+[![Linkedin Badge](https://img.shields.io/badge/-saurabhkhunt-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabhkhunt/) 
 [![Mail Badge](https://img.shields.io/badge/-saurabhkhunt.ca@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:saurabhkhunt.ca@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-saurabhkhunt-000000?style=flat&labelColor=000000&logo=medium&logoColor=white)](comming soon)
 
