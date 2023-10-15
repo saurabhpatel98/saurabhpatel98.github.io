@@ -1,7 +1,7 @@
 # **Hey <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28" height = "28px" alt="hi"> I'm Saurabh Khunt** 
 
 
-#### <p align = 'justify'> Solution-focused Data Scientist with a Master’s in Artificial Intelligence and 4+ years of experience in analysing, integrating, and operationalising AI and data-driven solutions. I excel in collaborating with cross-functional teams to solve business problems, deliver business insights, design dashboards, automate solutions, streamline processes and drive decision-making. Skilled in Python, SQL, Data Science, Machine Learning and Data Visualisation.</p>
+<!-- #### <p align = 'justify'> Solution-focused Data Scientist with a Master’s in Artificial Intelligence and 4+ years of experience in analysing, integrating, and operationalising AI and data-driven solutions. I excel in collaborating with cross-functional teams to solve business problems, deliver business insights, design dashboards, automate solutions, streamline processes and drive decision-making. Skilled in Python, SQL, Data Science, Machine Learning and Data Visualisation.</p> -->
 
 
 <!--![Chaithanya Vamshi Data Scientist - GitHub](https://user-images.githubusercontent.com/31254745/181863289-75ee1caf-d9aa-4dd9-b1aa-bd52df9b4341.png)-->
@@ -12,21 +12,20 @@
 </p>
 -->	
 ## **📫 Connect with Me!**
-[![GitHub Badge](https://img.shields.io/badge/-chaithanyavamshi-000000?style=flat&labelColor=000000&logo=github&logoColor=white)](https://github.com/saurabhpatel98/)
-[![Linkedin Badge](https://img.shields.io/badge/-chaithanyavsai-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabhjhunt/) 
-[![Mail Badge](https://img.shields.io/badge/-chaithanyav.sai@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:saurabhkhunt.ca@gmail.com)
-[![Medium Badge](https://img.shields.io/badge/-chaithanyavsai-000000?style=flat&labelColor=000000&logo=medium&logoColor=white)](comming soon)
+[![GitHub Badge](https://img.shields.io/badge/-saurabhkhunt-000000?style=flat&labelColor=000000&logo=github&logoColor=white)](https://github.com/saurabhpatel98/)
+[![Linkedin Badge](https://img.shields.io/badge/-saurabhkhunt-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabhjhunt/) 
+[![Mail Badge](https://img.shields.io/badge/-saurabhkhunt.ca@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:saurabhkhunt.ca@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/-saurabhkhunt-000000?style=flat&labelColor=000000&logo=medium&logoColor=white)](comming soon)
 
 <!-- TODO: Add last video link -->
 
 <!-- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/31254745/150092463-875d72f1-d6e1-467b-a908-417533ef14d7.gif" width="300" height="240" /> -->
-- 🎓 Master of Science (MSc) in Artificial Intelligence and a Bachelor of Technology (B.Tech) in Computer Science and Engineering.
+<!-- - 🎓 Master of Science (MSc) in Artificial Intelligence and a Bachelor of Technology (B.Tech) in Computer Science and Engineering.
 - 🔭 Researching on Explainable AI (XAI), Interpretable Machine Learning (IML), Human-centric AI. 
 - 🌱 Exploring OpenAI, AWS and Microsoft Azure.
 - 🤝 Looking to network with Data Nerds who share the same passion for unveiling insights and solving business problems.
 - 💬 Ask me about Artificial Intelligence, Data Science, Machine Learning, Data Analytics and Business Intelligence (BI).
-- 📝 I write Technical blogs on **[Medium](https://chaithanyavsai.medium.com/)**
-- ⚡ Fun fact: Apart from Analysing the data, I love to play Cricket, Dance and Cook. 
+- ⚡ Fun fact: Apart from Analysing the data, I love to play Cricket, Dance and Cook.  -->
 
 <!--
 <p align="center">
@@ -119,10 +118,10 @@
 ## **🕵️ Github Profile Stats** 
 </br>
 
-**![visitor badge](https://visitor-badge.glitch.me/badge?page_id=chaithanyavamshi.visitor-badge)**
-<!--![](https://komarev.com/ghpvc/?username=chaithanyavamshi&style=flat-square)-->
+**![visitor badge](https://visitor-badge.glitch.me/badge?page_id=saurabhkhunt.visitor-badge)**
+<!--![](https://komarev.com/ghpvc/?username=saurabhkhunt&style=flat-square)-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=saurabhpatel98&layout=compact&theme=radical&show_icons=true&locale=en" 
-	alt="chaithanyavamshi" width="400"  /></p>
+	alt="saurabhkhunt" width="400"  /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhpatel98&&layout=compact&theme=radical" alt="chaithanyavamshi" width="400"  /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhpatel98&&layout=compact&theme=radical" alt="saurabhkhunt" width="400"  /></p>
